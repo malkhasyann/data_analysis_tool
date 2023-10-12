@@ -29,7 +29,7 @@ It is the **statistics tab** where you can drag and drop your files and choose t
 
 <img width="1440" alt="Screenshot 2023-10-12 at 14 57 40" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/27b7a7bb-8485-45b7-bb63-0bde3db5bd69">
 
-The dataset will be shown and some general statistics for dataset columns.
+The dataset will be shown and some general statistics for dataset columns.<br>
 Move to the **visualize tab** to use charts for plotting.
 <img width="1440" alt="Screenshot 2023-10-12 at 15 00 30" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/7c614d99-528f-46a0-a1fb-6f1633509873">
 
