@@ -155,17 +155,6 @@ with main_tab:
 with visual_tab:
     st.header('Use charts to visualize the data')
 
-    # plotly chart types we use
-    # 1. px.line + px.area (with checkbox) -- numerical data : DONE
-    # 2. px.bar  -- for categorical data
-    # 3. px.histogram -- for quantitive data
-    #       histogram can be used with a single Series,
-    #       with two series as graph axes
-    # 4. px.scatter
-    #       example: px.scatter(df, x='Price', y='Manufacturer', color='Manufacturer')
-    #
-    # FUTURE FEATURE: px.line_3d(x, y, z)
-
     # line+area section
     st.subheader('Line Chart')
     line_cols = st.columns([0.4, 0.4, 0.2])  # x box, y box, area box
