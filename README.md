@@ -35,5 +35,3 @@ Move to the **visualize tab** to use charts for plotting.
 <img width="1440" alt="Screenshot 2023-10-12 at 15 00 30" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/7c614d99-528f-46a0-a1fb-6f1633509873">
 <br>
 <img width="1440" alt="Screenshot 2023-10-12 at 15 06 16" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/0613a754-f1b9-4a6f-a7a7-526a7fdbe2d3">
-<br><br>
-Thanks
