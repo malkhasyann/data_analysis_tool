@@ -24,19 +24,15 @@ You can upload your files and see some statistics and use provided charts to plo
 The app will run on your browser at `http://localhost:8501`
 
 <img width="1440" alt="Screenshot 2023-10-12 at 14 53 48" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/611f968e-02fb-4daf-9e6b-5ff3aceccd52">
-[comment]: main empty tab
 
 It is the **statistics tab** where you can drag and drop your files and choose the file you want to work with.
 
 <img width="1440" alt="Screenshot 2023-10-12 at 14 57 40" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/27b7a7bb-8485-45b7-bb63-0bde3db5bd69">
-[comment]: main tab with uploaded dataset
 
 The dataset will be shown and some general statistics for dataset columns.
 Move to the **visualize tab** to use charts for plotting.
 <img width="1440" alt="Screenshot 2023-10-12 at 15 00 30" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/7c614d99-528f-46a0-a1fb-6f1633509873">
-[comment]: visual tab 1
 
 <img width="1440" alt="Screenshot 2023-10-12 at 15 06 16" src="https://github.com/malkhasyann/data_analysis_tool/assets/99897064/0613a754-f1b9-4a6f-a7a7-526a7fdbe2d3">
-[comment]: visual tab 2
 
 Thanks
